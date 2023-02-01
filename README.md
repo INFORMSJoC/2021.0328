@@ -1,4 +1,4 @@
-This repository includes the data files and the code file of the following paper:
+This repository includes the data and the codes for the following paper:
 
 Liu J*, Kadziński M, Liao X. Modeling contingent decision behavior: a Bayesian nonparametric preference learning approach. INFORMS Journal on Computing, 2023.
 
