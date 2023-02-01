@@ -12,7 +12,7 @@ To cite this software, please cite the paper using its DOI and the software itse
 @article{BSS,
   author =        {J. Liu and M. Kadziński and X. Liao},
   publisher =     {INFORMS Journal on Computing},
-  title =         {{BSS} Version v2021.0234},
+  title =         {Modeling contingent decision behavior: a Bayesian nonparametric preference learning approach},
   year =          {2023},
   doi =           {10.5281/zenodo.7348935},
   note =          {available for download at https://github.com/INFORMSJoC/2021.0328},
