@@ -9,7 +9,7 @@ Liu J*, Kadziński M, Liao X. Modeling contingent decision behavior: a Bayesian 
 To cite this software, please cite the paper using its DOI and the software itself, using the following DOI.
 
 ```
-@article{BSS,
+@article{contdecbeh,
   author =        {J. Liu and M. Kadziński and X. Liao},
   publisher =     {INFORMS Journal on Computing},
   title =         {Modeling contingent decision behavior: a Bayesian nonparametric preference learning approach},
