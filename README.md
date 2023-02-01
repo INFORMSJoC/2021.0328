@@ -8,6 +8,17 @@ Liu J*, Kadziński M, Liao X. Modeling contingent decision behavior: a Bayesian 
 
 To cite this software, please cite the paper using its DOI and the software itself, using the following DOI.
 
+```
+@article{BSS,
+  author =        {J. Liu and M Kadziński and X. Liao},
+  publisher =     {INFORMS Journal on Computing},
+  title =         {{BSS} Version v2021.0234},
+  year =          {2023},
+  doi =           {10.5281/zenodo.7348935},
+  note =          {available for download at https://github.com/INFORMSJoC/2021.0328},
+} 
+```
+
 The “employee-recruitment” file contains the data for the illustrative case study of applying the proposed preference learning approach to the recruitment problem of engaging new employees.
 
 The “10-Real-World-Datasets.xlsx” file contains the 10 real-world datasets for the computational experiment.
