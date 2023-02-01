@@ -10,7 +10,7 @@ To cite this software, please cite the paper using its DOI and the software itse
 
 ```
 @article{BSS,
-  author =        {J. Liu and M Kadziński and X. Liao},
+  author =        {J. Liu and M. Kadziński and X. Liao},
   publisher =     {INFORMS Journal on Computing},
   title =         {{BSS} Version v2021.0234},
   year =          {2023},
