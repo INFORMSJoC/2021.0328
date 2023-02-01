@@ -14,7 +14,7 @@ To cite this software, please cite the paper using its DOI and the software itse
   publisher =     {INFORMS Journal on Computing},
   title =         {Modeling contingent decision behavior: a Bayesian nonparametric preference learning approach},
   year =          {2023},
-  doi =           {10.5281/zenodo.7348935},
+  doi =           {10.5281/zenodo.******},
   note =          {available for download at https://github.com/INFORMSJoC/2021.0328},
 } 
 ```
