@@ -26,7 +26,7 @@ public class ModelEvaluation {
 	public static void main(String[] args) throws IOException {
 		System.setOut(new PrintStream(new FileOutputStream("D:/console.txt")));
 		
-		ArrayList<ImbalancedDataSet> dataSetList = new ArrayList<ImbalancedDataSet>();		
+		ArrayList<DataSet> dataSetList = new ArrayList<DataSet>();		
 		int fileId = 0;
 		for(DataSet dataSet: dataSetList){
 			nAlt = dataSet.nAlt;
