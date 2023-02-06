@@ -6,7 +6,7 @@ Liu J*, Kadziński M, Liao X. Modeling contingent decision behavior: a Bayesian 
 
 ## Cite
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8475.svg)](https://doi.org/10.5281/zenodo.8475)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7608750.svg)](https://doi.org/10.5281/zenodo.7608750)
 
 To cite this software, please cite the paper using its DOI and the software itself, using the following DOI.
 
