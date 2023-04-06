@@ -27,7 +27,7 @@ The “employee-recruitment” file contains the data for the illustrative case 
 The “10-Real-World-Datasets.xlsx” file contains the 10 real-world datasets for the computational experiment.
 
 ## Code
-The “BNCP_hmc.py” file contains the codes of implementing the proposed preference learning approach.
+The “BNCP_hmc_mes.py” and “BNCP_hmc_sep.py” files contain the codes of implementing the proposed preference learning approach.
 
 The “preprocessing.java” file contains the codes for preprocessing the original data.
 
