@@ -1,8 +1,8 @@
-# Data and Codes for "Modeling contingent decision behavior: a Bayesian nonparametric preference learning approach"
+# Data and Codes for [Modeling contingent decision behavior: a Bayesian nonparametric preference learning approach](https://doi.org/10.1287/ijoc.2023.1292)
 
 This repository includes the data and the codes for the following paper:
 
-Liu J*, Kadziński M, Liao X. Modeling contingent decision behavior: a Bayesian nonparametric preference learning approach. INFORMS Journal on Computing, 2023.
+Liu J*, Kadziński M, Liao X. [Modeling contingent decision behavior: a Bayesian nonparametric preference learning approach](https://doi.org/10.1287/ijoc.2023.1292). INFORMS Journal on Computing, 2023.
 
 ## Cite
 
