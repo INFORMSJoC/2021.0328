@@ -6,9 +6,7 @@ Liu J*, Kadziński M, Liao X. [Modeling contingent decision behavior: a Bayesian
 
 ## Cite
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7608750.svg)](https://doi.org/10.5281/zenodo.7608750)
-
-To cite this software, please cite the paper using its DOI and the software itself, using the following DOI.
+To cite this software, please cite the paper using its DOI and the software itself, using the following DOI: [https://doi.org/10.1287/ijoc.2023.1292.cd](https://doi.org/10.1287/ijoc.2023.1292.cd)
 
 ```
 @article{contdecbeh,
@@ -16,7 +14,7 @@ To cite this software, please cite the paper using its DOI and the software itse
   publisher =     {INFORMS Journal on Computing},
   title =         {Modeling contingent decision behavior: a Bayesian nonparametric preference learning approach},
   year =          {2023},
-  doi =           {10.5281/zenodo.7608750},
+  doi =           {10.1287/ijoc.2023.1292.cd},
   url =           {https://github.com/INFORMSJoC/2021.0328},
 } 
 ```
